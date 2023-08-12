@@ -56,7 +56,7 @@ The challenge is divided into three parts:
 ![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query5.png?raw=true)
 * **Query 6:** *Lists each employee in the Sales department, including their employee number, last name, and first name.*<br>
 
-![image]
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query6.png?raw=true)
 * **Query 7:** *Lists each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.*<br>
 
 ![image]
