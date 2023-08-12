@@ -47,7 +47,7 @@ The challenge is divided into three parts:
 ![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query2.png?raw=true)
 * **Query 3:** *Lists the manager of each department along with their department number, department name, employee number, last name, and first name.*<br>
 
-![image]
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query3.png?raw=true)
 * **Query 4:** *Lists the department number for each employee along with that employee’s employee number, last name, first name, and department name.*<br>
 
 ![image]
