@@ -22,7 +22,8 @@ The challenge is divided into three parts:
 ![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/dept_manager_schema.png?raw=true)
 
 * **Department Employees**<br>
-![image]
+
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/dept_emp_schema.png?raw=true)
 
 * **Employees**<br>
 ![image]
