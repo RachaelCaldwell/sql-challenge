@@ -62,4 +62,4 @@ The challenge is divided into three parts:
 ![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query7.png?raw=true)
 * **Query 8:** *Lists the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).*<br>
 
-![image]
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query8.png?raw=true)
