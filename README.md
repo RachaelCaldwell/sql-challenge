@@ -17,17 +17,18 @@ The challenge is divided into three parts:
 
 ![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/dept_schema.png?raw=true)<br>
 
-* Department Managers
+* **Department Managers**<br>
+
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/dept_manager_schema.png?raw=true)
+
+* **Department Employees**<br>
 ![image]
 
-* Department Employees
+* **Employees**<br>
 ![image]
 
-* Employees
+* **Titles**<br>
 ![image]
 
-* Titles
-![image]
-
-* Salaries
+* **Salaries**<br>
 ![image]
