@@ -53,7 +53,7 @@ The challenge is divided into three parts:
 ![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query4.png?raw=true)
 * **Query 5:** *Lists first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.*<br>
 
-![image]
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query5.png?raw=true)
 * **Query 6:** *Lists each employee in the Sales department, including their employee number, last name, and first name.*<br>
 
 ![image]
