@@ -1,5 +1,5 @@
 # sql-challenge
-The Module 9 Challenge is based on Pewlett Hackard employment data during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.<br> 
+The Module 9 Challenge is based on Pewlett Hackard employment data during the 1980s and 1990s. All that remains of the employee database from that period are [six CSV files](https://github.com/RachaelCaldwell/sql-challenge/tree/main/EmployeeSQL).<br> 
 
 The challenge is divided into three parts: 
 * data modeling
