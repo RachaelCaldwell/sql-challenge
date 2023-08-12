@@ -39,18 +39,27 @@ The challenge is divided into three parts:
 
 **Part Three: Data Analysis**<br>
 * **Query 1:** *Lists the employee number, last name, first name, sex, and salary of each employee.*<br>
-![image]
+
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query1.png?raw=true)
+
 * **Query 2:** *Lists the first name, last name, and hire date for the employees who were hired in 1986.*<br>
+
 ![image]
 * **Query 3:** *Lists the manager of each department along with their department number, department name, employee number, last name, and first name.*<br>
+
 ![image]
 * **Query 4:** *Lists the department number for each employee along with that employee’s employee number, last name, first name, and department name.*<br>
+
 ![image]
 * **Query 5:** *Lists first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.*<br>
+
 ![image]
 * **Query 6:** *Lists each employee in the Sales department, including their employee number, last name, and first name.*<br>
+
 ![image]
 * **Query 7:** *Lists each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.*<br>
+
 ![image]
 * **Query 8:** *Lists the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).*<br>
+
 ![image]
