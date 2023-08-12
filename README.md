@@ -30,7 +30,8 @@ The challenge is divided into three parts:
 ![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/emp_schema.png?raw=true)
 
 * **Titles**<br>
-![image]
+
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/title_schema.png?raw=true)
 
 * **Salaries**<br>
 ![image]
