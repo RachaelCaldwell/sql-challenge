@@ -44,7 +44,7 @@ The challenge is divided into three parts:
 
 * **Query 2:** *Lists the first name, last name, and hire date for the employees who were hired in 1986.*<br>
 
-![image]
+![image](https://github.com/RachaelCaldwell/sql-challenge/blob/main/EmployeeSQL/images/query2.png?raw=true)
 * **Query 3:** *Lists the manager of each department along with their department number, department name, employee number, last name, and first name.*<br>
 
 ![image]
